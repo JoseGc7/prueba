@@ -1,2 +1,2 @@
 # prueba
-Repo de prueb de Bedu
+Repo de prueba de Bedu
